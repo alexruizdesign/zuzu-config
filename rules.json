@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "groups": [
+    { "match": "live games", "kind": "games" },
+    { "match": "* games", "kind": "games" },
+    { "match": "live channels", "kind": "channels" },
+    { "match": "* replays", "kind": "hidden" }
+  ],
+  "teamAliases": {},
+  "colleges": [],
+  "notice": {
+    "id": "sol-test-2026-10-09",
+    "title": "Test from Sol",
+    "message": "If you can read this on the Pavillion TV, remote announcements work.",
+    "platforms": ["tvOS"],
+    "end": "2026-10-10T02:56:04Z"
+  }
+}
