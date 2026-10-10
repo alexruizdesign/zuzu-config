@@ -1,18 +1,32 @@
 {
   "version": 1,
   "groups": [
-    { "match": "live games", "kind": "games" },
-    { "match": "* games", "kind": "games" },
-    { "match": "live channels", "kind": "channels" },
-    { "match": "* replays", "kind": "hidden" }
+    {
+      "match": "live games",
+      "kind": "games"
+    },
+    {
+      "match": "* games",
+      "kind": "games"
+    },
+    {
+      "match": "live channels",
+      "kind": "channels"
+    },
+    {
+      "match": "* replays",
+      "kind": "hidden"
+    }
   ],
   "teamAliases": {},
   "colleges": [],
   "notice": {
-    "id": "sol-test-2026-10-09",
+    "id": "sol-test-2026-10-09-takeover",
     "title": "Test from Sol",
-    "message": "If you can read this on the Pavillion TV, remote announcements work.",
-    "platforms": ["tvOS"],
+    "message": "This is the full-screen version. Press I Understand to dismiss it. Press Menu instead and it will come back next time.",
+    "platforms": [
+      "tvOS"
+    ],
     "end": "2026-10-10T02:56:04Z"
   }
 }
