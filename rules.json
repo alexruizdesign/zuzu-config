@@ -19,5 +19,14 @@
     }
   ],
   "teamAliases": {},
-  "colleges": []
+  "colleges": [],
+  "notice": {
+    "id": "sol-test-ios-2026-10-09",
+    "title": "Test from Sol",
+    "message": "This is a test announcement for the iPhone. Press I Understand to dismiss it. It expires on its own within the hour.",
+    "platforms": [
+      "iOS"
+    ],
+    "end": "2026-10-10T03:51:15Z"
+  }
 }
